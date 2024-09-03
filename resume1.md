@@ -9,17 +9,27 @@
 ### Education
 ---
  <img src="app-state-block-a-logo-600px.png" height=60 style='float: left; padding: 10px 20px 0px 0px'/>
- 
-MA Geography, Expected May 2025 
-    Appalachian State University 
-    Boone, North Carolina, USA
+
+ <p> 
+  MA Geography, Expected May 2025 
+    <br/>
+  Appalachian State University 
+    <br/>
+  Boone, North Carolina, USA 
+ </p>
+
 
 <img src="Wofford_Monogram.png" height=60 
 style='float: left; padding: 10px 20px 0px 0px' />
 
+<p>
 BS Environmental Science, 2023
+ <br/>
 Wofford College
-Spartanburg, South Carolina, USA
+ <br/>
+Spartanburg, South Carolina, USA 
+</p>
+
 
 
 ### Work Experience
