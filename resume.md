@@ -28,7 +28,9 @@ Spartanburg, South Carolina, USA
 <p/>
 
 ### Work Experience
+
 ---
+
 - Renewable Energy Development Intern, Empower Renewables
 [Empower Renewables](https://www.empowerrenewables.ie/)
 
@@ -41,7 +43,9 @@ Spartanburg, South Carolina, USA
 - Resident Assistant, Wofford College
 [Residence Life at Wofford College](https://www.wofford.edu/student-experiences/residence-life)
 
+
 ### Technical Proficiencies
+
 ---
 
 - R Studio / R Markdown
