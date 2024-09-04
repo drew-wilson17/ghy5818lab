@@ -1,6 +1,6 @@
 # Drew Wilson
 
-121 Autumn Ridge Rd, Fleetwood, NC 28626
+121 Autumn Ridge Rd, Fleetwood, NC 28626 | 
 (478)-232-0475 | wilsonar11@appstate.edu
 
 
